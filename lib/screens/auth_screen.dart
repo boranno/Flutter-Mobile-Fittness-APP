@@ -266,7 +266,7 @@ class _AuthScreenState extends State<AuthScreen>
 
                       // App name
                       const Text(
-                        'FitQuest',
+                        'FITNESS',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 32,
