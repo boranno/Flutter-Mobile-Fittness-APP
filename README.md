@@ -1,1 +1,1 @@
-# MAD-Project-Flutter-
+# Flutter Mobile App [Fittness App]
