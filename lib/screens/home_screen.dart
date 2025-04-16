@@ -733,7 +733,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                   floating: true,
                   title: Row(
                     children: [
-                      // FitQuest logo
+                      // Fitness logo
                       Container(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 4, vertical: 4),
@@ -749,7 +749,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                       ),
                       const SizedBox(width: 8),
                       const Text(
-                        'FitQuest',
+                        'FITNESS',
                         style: TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
