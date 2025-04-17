@@ -32,12 +32,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'FITNESS',
+      title: 'FitQuest',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: const Color(0xFF1DB954),
         scaffoldBackgroundColor: Colors.black,
-        fontFamily: 'LATO', // You can replace with a similar font
+        fontFamily: 'Gotham', // You can replace with a similar font
         textTheme: const TextTheme(
           displayLarge: TextStyle(
             color: Colors.white,
