@@ -272,6 +272,7 @@ class _AuthScreenState extends State<AuthScreen>
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 32,
+                          fontFamily: 'Lato',
                           fontWeight: FontWeight.bold,
                         ),
                       ),
@@ -282,6 +283,7 @@ class _AuthScreenState extends State<AuthScreen>
                       Text(
                         'Your fitness journey begins here',
                         style: TextStyle(
+                          fontFamily: 'Montserrat',
                           color: Colors.grey.shade400,
                           fontSize: 16,
                         ),
@@ -300,6 +302,7 @@ class _AuthScreenState extends State<AuthScreen>
                               _isLogin ? 'Login' : 'Create Account',
                               style: const TextStyle(
                                 color: Colors.white,
+                                fontFamily: 'Gotham',
                                 fontSize: 24,
                                 fontWeight: FontWeight.bold,
                               ),
